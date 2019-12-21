@@ -8,7 +8,8 @@ subtitle: Live Your Life
 description: ezhq's official website.
 keywords: ezhq,fe,FE
 author: ezhq
-language: zh-cmn-Hans
+# language: zh-cmn-Hans
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 avatar: /images/main/logo_single.png
