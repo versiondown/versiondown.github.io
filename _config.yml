@@ -99,7 +99,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 # theme: landscape
 theme: material-x
-use_cdn: true
+# use_cdn: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
