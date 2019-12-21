@@ -11,6 +11,10 @@ author: ezhq
 language: zh-cmn-Hans
 timezone: 'Asia/Shanghai'
 
+avatar: /images/main/logo_single.png
+shortcut_icon: /img/main/logo_single.png
+favicon: /img/main/logo_single.png
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://www.ezhq.xyz
@@ -93,7 +97,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: material-x
+use_cdn: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
