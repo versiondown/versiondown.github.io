@@ -13,9 +13,12 @@ author: ezhq
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
-avatar: /images/main/logo_single.png
+# avatar: /img/main/logo_single.png
+avatar: https://res.cloudinary.com/imgcave/image/upload/v1582464863/Img/Logo/ezhq_light_ej1jag.png
 shortcut_icon: /img/main/logo_single.png
+# shortcut_icon: https://res.cloudinary.com/imgcave/image/upload/v1582464863/Img/Logo/ezhq_light_ej1jag.png
 favicon: /img/main/logo_single.png
+# favicon: https://res.cloudinary.com/imgcave/image/upload/v1582464863/Img/Logo/ezhq_light_ej1jag.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
