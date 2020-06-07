@@ -17,7 +17,7 @@ tags:
     - Life
     - Read
 cover: true
-top: Touch
+top: false
 thumbnail: true
 icons: [fas fa-star yellow, fas fa-fire accent]
 
